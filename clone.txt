@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+It copies an existing Git repo.
